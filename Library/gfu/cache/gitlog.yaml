@@ -1,0 +1,306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-06-30T11:18:41.945-04:00
+  initializedAtString: 2019-06-30T11:18:41.945-04:00
+  log:
+  - commitID: a4fc0669fc7dd9ae0c562ebace03bf71e9cec61e
+    mergeA: 
+    mergeB: 
+    authorName: jaybproductions
+    authorEmail: jaybgameproductions@gmail.com
+    commitEmail: jaybgameproductions@gmail.com
+    commitName: jaybproductions
+    summary: Initial check-in of module FPS Project
+    description: 
+    timeString: 2019-06-30T11:08:19.000-04:00
+    commitTimeString: 2019-06-30T11:08:19.000-04:00
+    changes:
+    - path: Assembly-CSharp-Editor.csproj
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assembly-CSharp-Editor.csproj
+      projectPath: Assembly-CSharp-Editor.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Editor/PackageManagerAssembly/PackageImportList.txt
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Editor/PackageManagerAssembly/PackageImportList.txt
+      projectPath: Assets/EffectExamples/Editor/PackageManagerAssembly/PackageImportList.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll
+      projectPath: Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs
+      projectPath: Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs
+      projectPath: Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/GunAim.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/GunAim.cs
+      projectPath: Assets/EffectExamples/Shared/Scripts/GunAim.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/GunShoot.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/GunShoot.cs
+      projectPath: Assets/EffectExamples/Shared/Scripts/GunShoot.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/ParticleCollision.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/ParticleCollision.cs
+      projectPath: Assets/EffectExamples/Shared/Scripts/ParticleCollision.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs
+      projectPath: Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs
+      projectPath: Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Shaders/SurfaceShader_VC.shader
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Shaders/SurfaceShader_VC.shader
+      projectPath: Assets/EffectExamples/Shared/Shaders/SurfaceShader_VC.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+      projectPath: Assets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs
+      projectPath: Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/AmmoInventory.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/AmmoInventory.cs
+      projectPath: Assets/Scripts/AmmoInventory.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Enemy.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Enemy.cs
+      projectPath: Assets/Scripts/Enemy.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/EnemyMovement.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/EnemyMovement.cs
+      projectPath: Assets/Scripts/EnemyMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/GameOverUI.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/GameOverUI.cs
+      projectPath: Assets/Scripts/GameOverUI.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Gun.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Gun.cs
+      projectPath: Assets/Scripts/Gun.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Interactable.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Interactable.cs
+      projectPath: Assets/Scripts/Interactable.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/ItemPickup.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/ItemPickup.cs
+      projectPath: Assets/Scripts/ItemPickup.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/MainMenuUI.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/MainMenuUI.cs
+      projectPath: Assets/Scripts/MainMenuUI.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerController.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/PlayerController.cs
+      projectPath: Assets/Scripts/PlayerController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerMotor.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/PlayerMotor.cs
+      projectPath: Assets/Scripts/PlayerMotor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerStats.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/PlayerStats.cs
+      projectPath: Assets/Scripts/PlayerStats.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/ReloadManager.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/ReloadManager.cs
+      projectPath: Assets/Scripts/ReloadManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Shooting.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Shooting.cs
+      projectPath: Assets/Scripts/Shooting.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Spawner.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Spawner.cs
+      projectPath: Assets/Scripts/Spawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/WeaponSwitcher.cs
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/WeaponSwitcher.cs
+      projectPath: Assets/Scripts/WeaponSwitcher.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: FPS Project.sln
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/FPS Project.sln
+      projectPath: FPS Project.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
+      projectPath: Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll
+      projectPath: Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll
+      projectPath: Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll
+      projectPath: Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll
+      projectPath: Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll
+      projectPath: Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+      projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Timeline.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
