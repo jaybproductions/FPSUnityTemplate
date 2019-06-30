@@ -13,9 +13,723 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-06-30T11:33:14.793-04:00
+  lastUpdatedAtString: 2019-06-30T11:33:53.491-04:00
   initializedAtString: 2019-06-30T11:18:41.945-04:00
   log:
+  - commitID: 6016b8f1b80be8b2881269812814679d957778cb
+    mergeA: 
+    mergeB: 
+    authorName: jaybproductions
+    authorEmail: jaybgameproductions@gmail.com
+    commitEmail: jaybgameproductions@gmail.com
+    commitName: jaybproductions
+    summary: adding project
+    description: adding project
+    timeString: 2019-06-30T11:33:49.000-04:00
+    commitTimeString: 2019-06-30T11:33:49.000-04:00
+    changes:
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Editor/PackageManagerAssembly/PackageImportList.txt.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Editor/PackageManagerAssembly/PackageImportList.txt.meta
+      projectPath: Assets/EffectExamples/Editor/PackageManagerAssembly/PackageImportList.txt.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll.meta
+      projectPath: Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs.meta
+      projectPath: Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs.meta
+      projectPath: Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/GunAim.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/GunAim.cs.meta
+      projectPath: Assets/EffectExamples/Shared/Scripts/GunAim.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/GunShoot.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/GunShoot.cs.meta
+      projectPath: Assets/EffectExamples/Shared/Scripts/GunShoot.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/ParticleCollision.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/ParticleCollision.cs.meta
+      projectPath: Assets/EffectExamples/Shared/Scripts/ParticleCollision.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs.meta
+      projectPath: Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs.meta
+      projectPath: Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/Shared/Shaders/SurfaceShader_VC.shader.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/Shared/Shaders/SurfaceShader_VC.shader.meta
+      projectPath: Assets/EffectExamples/Shared/Shaders/SurfaceShader_VC.shader.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+      projectPath: Assets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs.meta
+      projectPath: Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/AmmoInventory.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/AmmoInventory.cs.meta
+      projectPath: Assets/Scripts/AmmoInventory.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/Enemy.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Enemy.cs.meta
+      projectPath: Assets/Scripts/Enemy.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/EnemyMovement.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/EnemyMovement.cs.meta
+      projectPath: Assets/Scripts/EnemyMovement.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/GameOverUI.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/GameOverUI.cs.meta
+      projectPath: Assets/Scripts/GameOverUI.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/Gun.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Gun.cs.meta
+      projectPath: Assets/Scripts/Gun.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/Interactable.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Interactable.cs.meta
+      projectPath: Assets/Scripts/Interactable.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/MainMenuUI.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/MainMenuUI.cs.meta
+      projectPath: Assets/Scripts/MainMenuUI.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerController.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/PlayerController.cs.meta
+      projectPath: Assets/Scripts/PlayerController.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerMotor.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/PlayerMotor.cs.meta
+      projectPath: Assets/Scripts/PlayerMotor.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerStats.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/PlayerStats.cs.meta
+      projectPath: Assets/Scripts/PlayerStats.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/ReloadManager.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/ReloadManager.cs.meta
+      projectPath: Assets/Scripts/ReloadManager.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/Shooting.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Shooting.cs.meta
+      projectPath: Assets/Scripts/Shooting.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/Spawner.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/Spawner.cs.meta
+      projectPath: Assets/Scripts/Spawner.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/WeaponSwitcher.cs.meta
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Assets/Scripts/WeaponSwitcher.cs.meta
+      projectPath: Assets/Scripts/WeaponSwitcher.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: FPS Project.sln
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/FPS Project.sln
+      projectPath: FPS Project.sln
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll
+      projectPath: Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+      projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.dll
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/ScriptAssemblies/Unity.Timeline.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/metadata/01/01d79beb4399f964ea234855d877ee52
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/01/01d79beb4399f964ea234855d877ee52
+      projectPath: Library/metadata/01/01d79beb4399f964ea234855d877ee52
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/01/01d79beb4399f964ea234855d877ee52.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/01/01d79beb4399f964ea234855d877ee52.info
+      projectPath: Library/metadata/01/01d79beb4399f964ea234855d877ee52.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/17/1708b2ad8d149415d8ceffa3a0ae252f
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/17/1708b2ad8d149415d8ceffa3a0ae252f
+      projectPath: Library/metadata/17/1708b2ad8d149415d8ceffa3a0ae252f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/17/1708b2ad8d149415d8ceffa3a0ae252f.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/17/1708b2ad8d149415d8ceffa3a0ae252f.info
+      projectPath: Library/metadata/17/1708b2ad8d149415d8ceffa3a0ae252f.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432
+      projectPath: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info
+      projectPath: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/22/2246ffb12fc334a79a66989dee3389cf
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/22/2246ffb12fc334a79a66989dee3389cf
+      projectPath: Library/metadata/22/2246ffb12fc334a79a66989dee3389cf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/22/2246ffb12fc334a79a66989dee3389cf.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/22/2246ffb12fc334a79a66989dee3389cf.info
+      projectPath: Library/metadata/22/2246ffb12fc334a79a66989dee3389cf.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05
+      projectPath: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info
+      projectPath: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/35/35676e1f175274318afc538f42bfb905
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/35/35676e1f175274318afc538f42bfb905
+      projectPath: Library/metadata/35/35676e1f175274318afc538f42bfb905
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/35/35676e1f175274318afc538f42bfb905.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/35/35676e1f175274318afc538f42bfb905.info
+      projectPath: Library/metadata/35/35676e1f175274318afc538f42bfb905.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/38/38e28ed7afbd24325883743bdfe4662b
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/38/38e28ed7afbd24325883743bdfe4662b
+      projectPath: Library/metadata/38/38e28ed7afbd24325883743bdfe4662b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/38/38e28ed7afbd24325883743bdfe4662b.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/38/38e28ed7afbd24325883743bdfe4662b.info
+      projectPath: Library/metadata/38/38e28ed7afbd24325883743bdfe4662b.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/3b/3b87f472a8687453eac1a8091330b6d5
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/3b/3b87f472a8687453eac1a8091330b6d5
+      projectPath: Library/metadata/3b/3b87f472a8687453eac1a8091330b6d5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/3b/3b87f472a8687453eac1a8091330b6d5.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/3b/3b87f472a8687453eac1a8091330b6d5.info
+      projectPath: Library/metadata/3b/3b87f472a8687453eac1a8091330b6d5.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/42/422d8644426474cfd8b793ce3c107314
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/42/422d8644426474cfd8b793ce3c107314
+      projectPath: Library/metadata/42/422d8644426474cfd8b793ce3c107314
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/42/422d8644426474cfd8b793ce3c107314.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/42/422d8644426474cfd8b793ce3c107314.info
+      projectPath: Library/metadata/42/422d8644426474cfd8b793ce3c107314.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/47/476cc7d7cd9874016adc216baab94a0a
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/47/476cc7d7cd9874016adc216baab94a0a
+      projectPath: Library/metadata/47/476cc7d7cd9874016adc216baab94a0a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/47/476cc7d7cd9874016adc216baab94a0a.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/47/476cc7d7cd9874016adc216baab94a0a.info
+      projectPath: Library/metadata/47/476cc7d7cd9874016adc216baab94a0a.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/4c/4c111b630ead2a349b4c4cbf7a810085
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/4c/4c111b630ead2a349b4c4cbf7a810085
+      projectPath: Library/metadata/4c/4c111b630ead2a349b4c4cbf7a810085
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/4c/4c111b630ead2a349b4c4cbf7a810085.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/4c/4c111b630ead2a349b4c4cbf7a810085.info
+      projectPath: Library/metadata/4c/4c111b630ead2a349b4c4cbf7a810085.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/4f/4f9de493986fa40439999ee05050df2e
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/4f/4f9de493986fa40439999ee05050df2e
+      projectPath: Library/metadata/4f/4f9de493986fa40439999ee05050df2e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/4f/4f9de493986fa40439999ee05050df2e.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/4f/4f9de493986fa40439999ee05050df2e.info
+      projectPath: Library/metadata/4f/4f9de493986fa40439999ee05050df2e.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/53/53a9f6d6149be4c94abefe51143005b4
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/53/53a9f6d6149be4c94abefe51143005b4
+      projectPath: Library/metadata/53/53a9f6d6149be4c94abefe51143005b4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/53/53a9f6d6149be4c94abefe51143005b4.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/53/53a9f6d6149be4c94abefe51143005b4.info
+      projectPath: Library/metadata/53/53a9f6d6149be4c94abefe51143005b4.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/59/590d27787e3514144984a2a9a80d23b9
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/59/590d27787e3514144984a2a9a80d23b9
+      projectPath: Library/metadata/59/590d27787e3514144984a2a9a80d23b9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/59/590d27787e3514144984a2a9a80d23b9.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/59/590d27787e3514144984a2a9a80d23b9.info
+      projectPath: Library/metadata/59/590d27787e3514144984a2a9a80d23b9.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/5e/5e0b7dc1782a986469ed1446388360f5
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/5e/5e0b7dc1782a986469ed1446388360f5
+      projectPath: Library/metadata/5e/5e0b7dc1782a986469ed1446388360f5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/5e/5e0b7dc1782a986469ed1446388360f5.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/5e/5e0b7dc1782a986469ed1446388360f5.info
+      projectPath: Library/metadata/5e/5e0b7dc1782a986469ed1446388360f5.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/64/64bd36d90b7ea4e54b98605c5d6facba
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/64/64bd36d90b7ea4e54b98605c5d6facba
+      projectPath: Library/metadata/64/64bd36d90b7ea4e54b98605c5d6facba
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/64/64bd36d90b7ea4e54b98605c5d6facba.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/64/64bd36d90b7ea4e54b98605c5d6facba.info
+      projectPath: Library/metadata/64/64bd36d90b7ea4e54b98605c5d6facba.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/67/67e23f33870f943908addcda6669f805
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/67/67e23f33870f943908addcda6669f805
+      projectPath: Library/metadata/67/67e23f33870f943908addcda6669f805
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/67/67e23f33870f943908addcda6669f805.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/67/67e23f33870f943908addcda6669f805.info
+      projectPath: Library/metadata/67/67e23f33870f943908addcda6669f805.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/6e/6eb320c256e4741bfa87990406c0d469
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/6e/6eb320c256e4741bfa87990406c0d469
+      projectPath: Library/metadata/6e/6eb320c256e4741bfa87990406c0d469
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/6e/6eb320c256e4741bfa87990406c0d469.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/6e/6eb320c256e4741bfa87990406c0d469.info
+      projectPath: Library/metadata/6e/6eb320c256e4741bfa87990406c0d469.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/7e/7e726b86fd74b454aabd7fbf74e60d6c
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/7e/7e726b86fd74b454aabd7fbf74e60d6c
+      projectPath: Library/metadata/7e/7e726b86fd74b454aabd7fbf74e60d6c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/7e/7e726b86fd74b454aabd7fbf74e60d6c.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/7e/7e726b86fd74b454aabd7fbf74e60d6c.info
+      projectPath: Library/metadata/7e/7e726b86fd74b454aabd7fbf74e60d6c.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/89/89358996bc7cbbc43b28e289a31f88a3
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/89/89358996bc7cbbc43b28e289a31f88a3
+      projectPath: Library/metadata/89/89358996bc7cbbc43b28e289a31f88a3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/89/89358996bc7cbbc43b28e289a31f88a3.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/89/89358996bc7cbbc43b28e289a31f88a3.info
+      projectPath: Library/metadata/89/89358996bc7cbbc43b28e289a31f88a3.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/8c/8cb9d00357e9a7d4ba95efba7231689a
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/8c/8cb9d00357e9a7d4ba95efba7231689a
+      projectPath: Library/metadata/8c/8cb9d00357e9a7d4ba95efba7231689a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/8c/8cb9d00357e9a7d4ba95efba7231689a.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/8c/8cb9d00357e9a7d4ba95efba7231689a.info
+      projectPath: Library/metadata/8c/8cb9d00357e9a7d4ba95efba7231689a.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/9c/9c54e60d96a2848ef9c9418388a52630
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/9c/9c54e60d96a2848ef9c9418388a52630
+      projectPath: Library/metadata/9c/9c54e60d96a2848ef9c9418388a52630
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/9c/9c54e60d96a2848ef9c9418388a52630.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/9c/9c54e60d96a2848ef9c9418388a52630.info
+      projectPath: Library/metadata/9c/9c54e60d96a2848ef9c9418388a52630.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/a3/a342381d77833427fa10621e38fbae10
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/a3/a342381d77833427fa10621e38fbae10
+      projectPath: Library/metadata/a3/a342381d77833427fa10621e38fbae10
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/a3/a342381d77833427fa10621e38fbae10.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/a3/a342381d77833427fa10621e38fbae10.info
+      projectPath: Library/metadata/a3/a342381d77833427fa10621e38fbae10.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/ac/ac682712a86a1446d88c99d25de0764c
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/ac/ac682712a86a1446d88c99d25de0764c
+      projectPath: Library/metadata/ac/ac682712a86a1446d88c99d25de0764c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/ac/ac682712a86a1446d88c99d25de0764c.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/ac/ac682712a86a1446d88c99d25de0764c.info
+      projectPath: Library/metadata/ac/ac682712a86a1446d88c99d25de0764c.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/b3/b3cedb949dfc6b44aa88e1e82ba6471d
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/b3/b3cedb949dfc6b44aa88e1e82ba6471d
+      projectPath: Library/metadata/b3/b3cedb949dfc6b44aa88e1e82ba6471d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/b3/b3cedb949dfc6b44aa88e1e82ba6471d.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/b3/b3cedb949dfc6b44aa88e1e82ba6471d.info
+      projectPath: Library/metadata/b3/b3cedb949dfc6b44aa88e1e82ba6471d.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/be/beb6296a50f884f7db37c53feb7988ab
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/be/beb6296a50f884f7db37c53feb7988ab
+      projectPath: Library/metadata/be/beb6296a50f884f7db37c53feb7988ab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/be/beb6296a50f884f7db37c53feb7988ab.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/be/beb6296a50f884f7db37c53feb7988ab.info
+      projectPath: Library/metadata/be/beb6296a50f884f7db37c53feb7988ab.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/c6/c63d71560c10e473ebc409185edd2c8c
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/c6/c63d71560c10e473ebc409185edd2c8c
+      projectPath: Library/metadata/c6/c63d71560c10e473ebc409185edd2c8c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/c6/c63d71560c10e473ebc409185edd2c8c.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/c6/c63d71560c10e473ebc409185edd2c8c.info
+      projectPath: Library/metadata/c6/c63d71560c10e473ebc409185edd2c8c.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2
+      projectPath: Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2.info
+      projectPath: Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/e3/e3fb4999480fe48508c9122b5add10b4
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/e3/e3fb4999480fe48508c9122b5add10b4
+      projectPath: Library/metadata/e3/e3fb4999480fe48508c9122b5add10b4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/e3/e3fb4999480fe48508c9122b5add10b4.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/e3/e3fb4999480fe48508c9122b5add10b4.info
+      projectPath: Library/metadata/e3/e3fb4999480fe48508c9122b5add10b4.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0
+      projectPath: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info
+      projectPath: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/fc/fcf7219bab7fe46a1ad266029b2fee19
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/fc/fcf7219bab7fe46a1ad266029b2fee19
+      projectPath: Library/metadata/fc/fcf7219bab7fe46a1ad266029b2fee19
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/metadata/fc/fcf7219bab7fe46a1ad266029b2fee19.info
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Library/metadata/fc/fcf7219bab7fe46a1ad266029b2fee19.info
+      projectPath: Library/metadata/fc/fcf7219bab7fe46a1ad266029b2fee19.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-32dde830d682143c392dcd0a19fa79c1
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Temp/UnityTempFile-32dde830d682143c392dcd0a19fa79c1
+      projectPath: Temp/UnityTempFile-32dde830d682143c392dcd0a19fa79c1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-471085ecff31540d48122cee609dab25
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Temp/UnityTempFile-471085ecff31540d48122cee609dab25
+      projectPath: Temp/UnityTempFile-471085ecff31540d48122cee609dab25
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-aea430455f03f47beb5890b08384216f
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Temp/UnityTempFile-aea430455f03f47beb5890b08384216f
+      projectPath: Temp/UnityTempFile-aea430455f03f47beb5890b08384216f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-e70bac343f2fe44a98e0191720725551
+      fullPath: /Users/jacob/Documents/Unity Stuff/FPS Project/Temp/UnityTempFile-e70bac343f2fe44a98e0191720725551
+      projectPath: Temp/UnityTempFile-e70bac343f2fe44a98e0191720725551
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 9edab748a58d5fed1943051b7e644622668e74ff
     mergeA: 
     mergeB: 
