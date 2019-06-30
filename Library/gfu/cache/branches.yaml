@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-06-30T11:24:03.723-04:00
+  lastUpdatedAtString: 2019-06-30T11:31:50.974-04:00
   initializedAtString: 2019-06-30T11:18:52.612-04:00
   localBranches:
   - name: master
@@ -21,7 +21,7 @@ MonoBehaviour:
   remoteBranches: []
   remotes:
   - name: origin
-    url: https://github.com/jaybproductions/FPSTemplate.git
+    url: https://github.com/jaybproductions/FPSTemplateUnity.git
     login: 
     user: 
     host: 
@@ -34,18 +34,15 @@ MonoBehaviour:
     - name: master
       remote:
         name: origin
-        url: https://github.com/jaybproductions/FPSTemplate.git
+        url: https://github.com/jaybproductions/FPSTemplateUnity.git
       trackingBranch: master
   remoteConfigBranches:
-    keys:
-    - origin
-    subKeys:
-    - Values: []
-    subKeyValues:
-    - Values: []
+    keys: []
+    subKeys: []
+    subKeyValues: []
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/jaybproductions/FPSTemplate.git
+      url: https://github.com/jaybproductions/FPSTemplateUnity.git
